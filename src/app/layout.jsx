@@ -10,7 +10,7 @@ export default function RootLayout({ children }) {
   return (
     <html lang="en">
       <body
-        className={`w-screen h-screen  container mx-auto bg-[url('/images/main.png')] bg-cover bg-center`}
+        className={`w-screen h-screen  container mx-auto bg-[url('/images/main.png')] bg-cover bg-center bg-black`}
       >
         <Nav/>
         {children}

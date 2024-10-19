@@ -8,7 +8,7 @@ export default function Home() {
       </h1>
       <div className=" mt-10 gap-5 flex items-center">
         <span className="tx_sh text-5xl font-medium text-white">try your outfit online</span>
-        <button className="bg-black py-2 px-4 text-white text-xl rounded-lg">try now</button>
+        <button className="BX_SH bg-black py-2 px-4 text-white text-xl rounded-lg">try now</button>
       </div>
     </main>
   );

@@ -14,7 +14,9 @@
 .tx_sh{
   text-shadow: 0 0 2px #000;
 }
-
+.BX_SH{
+  box-shadow: 1px 1px 10px #fff;
+}
 @layer utilities {
   .text-balance {
     text-wrap: balance;
