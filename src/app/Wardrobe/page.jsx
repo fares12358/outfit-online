@@ -2,7 +2,9 @@ import React from 'react'
 
 const page = () => {
   return (
-    <div>Wardrobe</div>
+    <div className='w-full h-[calc(100%-80px)] border overflow-hidden'>
+      
+    </div>
   )
 }
 
